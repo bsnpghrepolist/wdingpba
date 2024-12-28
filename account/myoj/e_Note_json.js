@@ -9322,7 +9322,7 @@ var _bnotes=
     },
     "1Ki": {
         "1": {
-            "1": "241228_021837(ed).<ol><li>Kings</li></ol>",
+            "1": "241228_022107(ed).<ol><li>Kings</li></ol>",
             "2": "241127_093751(ed).<ol><li>The servants of David is wicked.</li></ol>",
             "3": "",
             "4": "",
