@@ -9793,7 +9793,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "241227_210233(ed).<ol><li>Politics and faith relations </li><li>State and Church relationship</li><li>If Trump fall, what shall we do?</li><li><br></li></ol>",
+            "16": "241227_212505(ed).<ol><li>Politics and faith relations </li><li>State and Church relationship</li><li>If Trump fall, what shall we do?</li><li>New</li></ol>",
             "17": "",
             "18": "",
             "19": "241226_102146(ed).<ol><li>560 BC. 512Bc. </li><li>Is rebellion good or bad? </li><li>Deny ourselves culture </li></ol>",
