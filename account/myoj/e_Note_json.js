@@ -9796,7 +9796,7 @@ var _bnotes=
             "16": "241228_112520(ed).<ol><li>Politics and faith relations </li><li>State and Church relationship</li><li>If Trump falls, what shall we do?</li><li>Escape</li></ol>",
             "17": "241228_112413(ed).<ol><li>Endurance</li><li><br></li></ol>",
             "18": "241228_112450(ed).<ol><li>Rebel</li></ol>",
-            "19": "241226_102146(ed).<ol><li>560 BC. 512Bc. </li><li>Is rebellion good or bad? </li><li>Deny ourselves culture </li></ol>",
+            "19": "241228_112618(ed).<ol><li>560 BC. 512Bc. </li><li>Is rebellion good or bad? </li><li>Deny ourselves culture </li><li>Failed to pray to the lord. </li></ol>",
             "20": "",
             "21": "",
             "22": "241223_055238(ed).<ol><li>Shema: listen </li><li>\"但耶和华的话临到神人示玛雅说、\" (2Ch11:2 CUVS)</li><li>\"以色列阿、你要听．耶和华我们　神是独一的主。\" (Deu6:4 CUVS)</li></ol>",
