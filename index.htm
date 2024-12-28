@@ -2,13 +2,12 @@
 
 <head>
   <meta charset="UTF-8" />
-  <script src="./account/myoj/e_Note_json.js"></script>
+  <script src="./account/myoj/e_Note_json.js?v=202427"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
 
   <script language="javascript" src="https://bsnpghrepolist.github.io/admin/js/Rapid_Sort_Table.js?v=202406"></script>
-
-  <script language="javascript" src="https://bsnpghrepolist.github.io/admin/js/eNotes2Table.js?v=202412"></script>
+  <script language="javascript" src="https://bsnpghrepolist.github.io/admin/js/eNotes2Table.js?v=2024120"></script>
 
 </head>
 <style>
@@ -27,11 +26,10 @@
 <script>
   var obj = _bnotes
 
-  // Call the walkObject function with the example object
   var stb = eNotes2Table(obj);
-  var pat = document.getElementById("tb");
+
   document.body.innerHTML += (stb.tabHTM);
 
-  var sortab = new Rapid_Sort_Table(stb.tabID)
+  var sortab = new Rapid_Sort_Table("#" + stb.tabID)
   sortab.sort_col({ colIdx: 2, asend: 1 })
 </script>
