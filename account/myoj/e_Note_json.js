@@ -9793,7 +9793,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "241223_050819(ed).<ol><li>Politics and faith relations </li></ol>",
+            "16": "241227_195642(ed).<ol><li>Politics and faith relations </li><li>State and Church relationship</li></ol>",
             "17": "",
             "18": "",
             "19": "241226_102146(ed).<ol><li>560 BC. 512Bc. </li><li>Is rebellion good or bad? </li><li>Deny ourselves culture </li></ol>",
