@@ -9802,7 +9802,7 @@ var _bnotes=
             "22": "241223_055238(ed).<ol><li>Shema: listen </li><li>\"但耶和华的话临到神人示玛雅说、\" (2Ch11:2 CUVS)</li><li>\"以色列阿、你要听．耶和华我们　神是独一的主。\" (Deu6:4 CUVS)</li></ol>",
             "23": "",
             "24": "241228_113434(ed).<ol><li>The lord’s way: retreat and pray. </li><li>Don’t fight for the country. Fight for faith. </li><li>Patriotism </li><li>Russia and Ukraine war. </li></ol>",
-            "25": "",
+            "25": "250101_093156(ed).<ol><li>Penuel or Peniel = \"facing God\"</li></ol>",
             "26": "",
             "27": "",
             "28": "",
