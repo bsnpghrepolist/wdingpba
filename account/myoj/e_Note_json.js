@@ -9803,7 +9803,7 @@ var _bnotes=
             "23": "",
             "24": "241228_113434(ed).<ol><li>The lord’s way: retreat and pray. </li><li>Don’t fight for the country. Fight for faith. </li><li>Patriotism </li><li>Russia and Ukraine war. </li></ol>",
             "25": "250101_093156(ed).<ol><li>Penuel or Peniel = \"facing God\"</li></ol>",
-            "26": "250101_093643(ed).<ol><li>the religious political motivation is to control people</li></ol>",
+            "26": "250101_113849(ed).<ol><li>using the religious political motivation to control people</li></ol>",
             "27": "",
             "28": "",
             "29": "",
