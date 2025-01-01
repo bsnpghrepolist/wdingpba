@@ -9792,7 +9792,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "241230_093523(ed).<ol><li>Bad Relations with people.</li><li>President Campaign. Flater the voters. Cheat the voters. Make use of voters. Learn voters.</li><li>Christian private protection.  </li><li>crafty CCP: Serve the people and soul. </li><li>Rehoboam is idot.  </li></ol>",
+            "15": "250101_075734(ed).<ol><li>Bad Relations with people.</li><li>President Campaign. Flater the voters. Cheat the voters. Make use of voters. Learn voters.</li><li>Christian private protection.  </li><li>crafty CCP: Serve the people and soul. </li><li>Rehoboam is idot.  </li></ol>",
             "16": "241228_112520(ed).<ol><li>Politics and faith relations </li><li>State and Church relationship</li><li>If Trump falls, what shall we do?</li><li>Escape</li></ol>",
             "17": "241228_112413(ed).<ol><li>Endurance</li><li><br></li></ol>",
             "18": "241228_112758(ed).<ol><li>Rebel, fight</li></ol>",
