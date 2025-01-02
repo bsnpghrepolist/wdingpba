@@ -9822,7 +9822,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "250102_094748(ed).<ol><li>Not to follow the evil</li></ol>",
+            "10": "250102_094839(ed).<ol><li>Help but not follow the evil</li></ol>",
             "11": "",
             "12": "",
             "13": "",
