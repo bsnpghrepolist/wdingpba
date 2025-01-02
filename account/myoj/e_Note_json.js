@@ -9822,7 +9822,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "250102_094839(ed).<ol><li>Help but not follow the evil</li></ol>",
+            "10": "250102_095144(ed).<ol><li>Help but not follow the evil. Contrast to Solomon and Jeroboam, Roheboam.  </li></ol>",
             "11": "",
             "12": "",
             "13": "",
