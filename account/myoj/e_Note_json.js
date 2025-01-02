@@ -9818,7 +9818,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "250102_093911(ed).<ol><li>Jesus heals the thriveled up. Matthew 12:9–13, Mark 3:1–6, and Luke 6:6–11.</li></ol>",
+            "6": "250102_093939(ed).<ol><li>Jesus heals the thriveled up. Mat12:9–13, Mar3:1–6, and Luk6:6–11.</li></ol>",
             "7": "",
             "8": "",
             "9": "",
