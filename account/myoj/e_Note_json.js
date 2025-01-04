@@ -27826,7 +27826,7 @@ var _bnotes=
             "27": "",
             "28": "",
             "29": "",
-            "30": "250104.113707(ed).<ol><li>the real Lord knew everything </li></ol>",
+            "30": "250104.113721(ed).<ol><li>The Lord knew everything </li></ol>",
             "31": "",
             "32": "",
             "33": "",
