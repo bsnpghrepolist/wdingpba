@@ -9859,7 +9859,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
+            "11": "250106.102413(ed).<ol><li>Leader and servants relationship in anger of God. </li></ol>",
             "12": "",
             "13": "",
             "14": "",
