@@ -9948,7 +9948,7 @@ var _bnotes=
             "28": "",
             "29": "",
             "30": "250107.073000(ed).<ol><li>Did more evil in eye of the Lord. </li></ol>",
-            "31": "",
+            "31": "250107.073559(ed).<ol><li>Rehoboam,  (1Ki11:26)</li></ol>",
             "32": "",
             "33": "",
             "34": ""
