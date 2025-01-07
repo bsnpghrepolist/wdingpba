@@ -9869,7 +9869,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "250107.093420(ed).<ol><li>Jeroboam (DP) vs Roheboam (GOP). </li></ol>",
+            "21": "250107.093722(ed).<ol><li>Jeroboam (DP) vs Roheboam (GOP). </li><li>Gentle women enter Israel; Israelite mary gentile woman. </li></ol>",
             "22": "",
             "23": "",
             "24": "",
