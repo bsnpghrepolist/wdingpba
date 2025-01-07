@@ -9948,7 +9948,7 @@ var _bnotes=
             "28": "",
             "29": "",
             "30": "250107.082326(ed).<ol><li>Did more evil in eye of the Lord. </li><li>Man is sinful, doing evil. </li><li>Don’t forbid evil, but rely on Jesus. </li><li>\"我也知道、在我里头、就是我肉体之中、没有良善．因为立志为善由得我、只是行出来由不得我。\" (Rom7:18 CUVS)</li></ol>",
-            "31": "250107.073559(ed).<ol><li>Rehoboam,  (1Ki11:26)</li></ol>",
+            "31": "250107.082531(ed).<ol><li>Rehoboam,  (1Ki11:26)</li><li>Trivial, light sin. </li></ol>",
             "32": "",
             "33": "",
             "34": ""
