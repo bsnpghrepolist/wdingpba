@@ -9947,7 +9947,7 @@ var _bnotes=
             "27": "",
             "28": "",
             "29": "",
-            "30": "250107.073000(ed).<ol><li>Did more evil in eye of the Lord. </li></ol>",
+            "30": "250107.080122(ed).<ol><li>Did more evil in eye of the Lord. </li><li>Man is sinful, doing evil. </li><li>Don’t forbid evil, but rely on Jesus. </li></ol>",
             "31": "250107.073559(ed).<ol><li>Rehoboam,  (1Ki11:26)</li></ol>",
             "32": "",
             "33": "",
