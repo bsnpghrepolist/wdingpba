@@ -9886,7 +9886,7 @@ var _bnotes=
             "2": "250108.093425(ed).<ol><li>kinship with David, and being blessed.</li></ol>",
             "3": "",
             "4": "250108.093107(ed).<ol><li>judgment is not immediately.</li></ol>",
-            "5": "250108.093201(ed).<ol><li>David is not easy.</li></ol>",
+            "5": "250108.093849(ed).<ol><li>David is not easy. Adultery usually leads to idolatry. </li></ol>",
             "6": "",
             "7": "",
             "8": "",
