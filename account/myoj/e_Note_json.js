@@ -9883,7 +9883,7 @@ var _bnotes=
         },
         "15": {
             "1": "",
-            "2": "",
+            "2": "250108.093336(ed).<ol><li>kinship with David</li></ol>",
             "3": "",
             "4": "250108.093107(ed).<ol><li>judgment is not immediately.</li></ol>",
             "5": "250108.093201(ed).<ol><li>David is not easy.</li></ol>",
