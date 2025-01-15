@@ -9954,7 +9954,7 @@ var _bnotes=
             "34": ""
         },
         "17": {
-            "1": "",
+            "1": "250115.095026(ed).<ol><li>https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1911&num=true</li><li><br></li></ol>",
             "2": "",
             "3": "",
             "4": "",
