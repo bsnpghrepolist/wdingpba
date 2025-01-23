@@ -10035,7 +10035,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "250123.064404(ed).<ol><li>Horeb Mnt: Zion Mnt: = https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=481</li></ol>",
             "9": "",
             "10": "",
             "11": "",
