@@ -10266,7 +10266,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "250124.083222(ed).<ol><li>5-loaf-2-fish in Jesus. </li></ol>",
+            "7": "250124.083446(ed).<ol><li>5-loaf-2-fish in Jesus. </li><li>Although the kings fall the society decline, you power never ever decreases. You love never forsake us. </li></ol>",
             "8": "",
             "9": "",
             "10": "",
