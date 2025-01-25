@@ -10267,7 +10267,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "250124.084833(ed).<ol><li>5-loaf-2-fish in Jesus. </li><li>Although the kings fall the society decline, you power never ever decreases. You love never forsake us. </li><li>God is miracle God. We only depend on him. Wrong or right we do he will be with us. </li><li>Scientific mind cannot do miracles.  </li><li>In the dark days, we count on him. </li></ol>",
-            "8": "",
+            "8": "250124.170553(ed).<ol><li><a href=\"https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1942&top=0866\">https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=1942&top=0866</a></li></ol>",
             "9": "",
             "10": "",
             "11": "",
