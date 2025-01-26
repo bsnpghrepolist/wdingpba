@@ -29053,7 +29053,7 @@ var _bnotes=
             "5": "",
             "6": "Israel wants to restore the kingdom of Israel; Chinese wants restore kingdom of Chinese; each culture wants to restore its culture; But that’s not God wanted. God wanted to restore his people; that is the kingdom of God. And the kingdom of God has already been being restored. Why did people don’t know.?",
             "7": "Knowledge is not power. Some knowledge we need know; but some we need not know. To know that is not allowed to know is death. Gen2. ",
-            "8": "It is not by knowledge to do the mission of God. But by the Holy Spirit. It is Bible based study not topic based study. Topic based study is the beginning of the heresy. ",
+            "8": "250126.081423(ed).It is not by knowledge to do the mission of God. But by the Holy Spirit. It is Bible based study not topic based study. Topic based study is the beginning of the heresy. <div><br><div>1. Holy Spirit is used for witness rather than prosperity. </div></div><div><br></div>",
             "9": "Many people did not know the Holy Spirit. When things passed away it is like that. ",
             "10": "",
             "11": "",
