@@ -29049,7 +29049,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "250126.082400(ed).<ol><li>Do not leave church. </li></ol>",
             "5": "",
             "6": "Israel wants to restore the kingdom of Israel; Chinese wants restore kingdom of Chinese; each culture wants to restore its culture; But that’s not God wanted. God wanted to restore his people; that is the kingdom of God. And the kingdom of God has already been being restored. Why did people don’t know.?",
             "7": "Knowledge is not power. Some knowledge we need know; but some we need not know. To know that is not allowed to know is death. Gen2. ",
