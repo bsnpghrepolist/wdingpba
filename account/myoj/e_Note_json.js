@@ -10072,7 +10072,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "",
+            "22": "250127.071115(ed).<ol><li>Strength yourself and see what you must have done:</li></ol>",
             "23": "",
             "24": "",
             "25": "",
