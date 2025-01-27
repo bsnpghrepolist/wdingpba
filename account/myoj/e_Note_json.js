@@ -10087,7 +10087,7 @@ var _bnotes=
             "34": "250127.094302(ed).<ol><li>Be friend with evil</li></ol>",
             "35": "",
             "36": "",
-            "37": "",
+            "37": "250127.094520(ed).<ol><li>Strike me---The Will of God--Jesus nailed on Cross</li></ol>",
             "38": "",
             "39": "",
             "40": "",
