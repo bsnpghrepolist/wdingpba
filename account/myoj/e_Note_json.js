@@ -10072,7 +10072,7 @@ var _bnotes=
             "19": "",
             "20": "",
             "21": "",
-            "22": "250127.071115(ed).<ol><li>Strength yourself and see what you must have done:</li></ol>",
+            "22": "250127.073224(ed).<ol><li>Strength yourself and see what you must have done:</li><li>\"你们要防备假先知．他们到你们这里来、外面披着羊皮、里面却是残暴的狼。\" (Mat7:15 CUVS)</li><li>\"你们要防备人．因为他们要把你们交给公会、也要在会堂里鞭打你们．\" (Mat10:17 CUVS)</li><li>\"耶稣对他们说、你们要谨慎、防备法利赛人和撒都该人的酵。\" (Mat16:6 CUVS)</li><li>\"耶稣在教训之间、说、你们要防备文士、他们好穿长衣游行、喜爱人在街市上问他们的安、\" (Mak12:38 CUVS)</li></ol>",
             "23": "250127.071333(ed).<ol><li>Worldly military, economic, business, and other strategies: </li></ol>",
             "24": "250127.071413(ed).<ol><li>Worldly Reformation</li></ol>",
             "25": "",
