@@ -10078,7 +10078,7 @@ var _bnotes=
             "25": "",
             "26": "",
             "27": "",
-            "28": "250127.071840(ed).<ol><li>The Chinese said that the God of Israel is a foreign god. </li></ol>",
+            "28": "250127.071928(ed).<ol><li>The Chinese said that the God of Israel is a foreign god. not a god of ours.</li></ol>",
             "29": "",
             "30": "",
             "31": "",
