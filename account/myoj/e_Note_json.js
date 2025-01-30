@@ -18132,7 +18132,7 @@ var _bnotes=
             "35": ""
         },
         "15": {
-            "1": "250130.090515(ed).<ol><li>Always soften your languages. Tones and style</li><li> My language is stubborn, offensive, and oppressive. </li></ol>",
+            "1": "250130.092450(ed).<ol><li>Always soften your languages. Tones and style</li><li> My language is stubborn, offensive, oppressive, antagonistic. </li></ol>",
             "2": "",
             "3": "",
             "4": "250130.090915(ed).<ol><li>Why the deceitful tongue could crush the spirit. </li></ol>",
