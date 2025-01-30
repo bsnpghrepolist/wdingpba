@@ -28816,7 +28816,7 @@ var _bnotes=
             "8": "<ol><li>fruits: Gal5:22-23</li></ol>",
             "9": "",
             "10": "<ol><li>marriage commitment: better or worse. </li></ol>",
-            "11": "",
+            "11": "250130.091923(ed).<ol><li>My joy is Jesus’ joy. </li></ol>",
             "12": "",
             "13": "<ol><li>Gen2:15 command to die. Jesus will die for us. </li></ol>",
             "14": "",
