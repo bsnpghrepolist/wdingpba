@@ -18132,7 +18132,7 @@ var _bnotes=
             "35": ""
         },
         "15": {
-            "1": "250102_190248(ed).<ol><li><br></li></ol>",
+            "1": "250130.090419(ed).<ol><li>Always soften your languages. Tones and style</li><li> </li></ol>",
             "2": "",
             "3": "",
             "4": "",
