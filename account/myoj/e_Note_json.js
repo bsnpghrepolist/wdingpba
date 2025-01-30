@@ -25617,7 +25617,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "250130.091646(ed).<ol><li>Compared with 10-commandments in behaviors</li><li>In heart, </li></ol>",
             "20": "",
             "21": "",
             "22": "",
