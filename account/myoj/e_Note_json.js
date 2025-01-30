@@ -31595,7 +31595,7 @@ var _bnotes=
             "24": "",
             "25": "",
             "26": "",
-            "27": "",
+            "27": "250130.090307(ed).<ol><li>Give no opportunity to the devil. </li><li>The world give lots opportunities to the devil. </li></ol>",
             "28": "",
             "29": "",
             "30": "",
