@@ -18135,7 +18135,7 @@ var _bnotes=
             "1": "250130.090515(ed).<ol><li>Always soften your languages. Tones and style</li><li> My language is stubborn, offensive, and oppressive. </li></ol>",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "250130.090915(ed).<ol><li>Why the deceitful tongue could crush the spirit. </li></ol>",
             "5": "",
             "6": "",
             "7": "",
