@@ -10160,7 +10160,7 @@ var _bnotes=
             "31": "",
             "32": "",
             "33": "",
-            "34": "250127.095352(ed).<ol><li>random: for man, not for the Lord.</li></ol>",
+            "34": "250205.100612(ed).<ol><li>random for man, but not for the Lord.</li><li>random for man is miracle.</li></ol>",
             "35": "",
             "36": "",
             "37": "",
