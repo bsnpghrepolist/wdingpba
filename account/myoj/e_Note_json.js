@@ -25186,7 +25186,7 @@ var _bnotes=
             "4": "<ol><li>First </li></ol>",
             "5": "<ol><li>meek, opposite to the blood spirit; not resisting Him; wholly relying on Him; purify His elect; He will delivery His elect; opposite of self-selfish; The meek is not occupied by personal.</li><li>Jesus is gentle == meek, you will find on me.</li><li>Jesus get anger to the religious elites but not on non-believers. not self-defend but kingdom of heaven.</li><li>Meekness is the power of the kingdom of heaven.</li></ol>",
             "6": "",
-            "7": "",
+            "7": "250206.182441(ed).<ol><li></li></ol>",
             "8": "",
             "9": "",
             "10": "",
