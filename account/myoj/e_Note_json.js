@@ -32854,7 +32854,7 @@ var _bnotes=
             "3": "250209.093044(ed).<ol><li>Outside beauty=outward appearance </li><li>\"But the Lord said to Samuel, \"Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things man looks at. Man looks at the outward appearance, but the Lord looks at the heart.\"\" (1Sa16:7 NIV)</li><li>Any man can wear suits in this cheat and cheap world. </li></ol>",
             "4": "250209.091958(ed).<ol><li>Man love gentle and quiet spirit. </li></ol>",
             "5": "",
-            "6": "250209.094606(ed).<ol><li>\"So Sarah laughed to herself as she thought, \"After I am worn out and my master is old, will I now have this pleasure?\"\" (Gen18:12 NIV)</li><li>Sarah </li></ol>",
+            "6": "250209.094954(ed).<ol><li>\"So Sarah laughed to herself as she thought, \"After I am worn out and my master is old, will I now have this pleasure?\"\" (Gen18:12 NIV)</li><li>Sarah \"As he was about to enter Egypt, he said to his wife Sarai, \"I know what a beautiful woman you are.\" (Gen12:11 NIV)</li></ol>",
             "7": "<ol><li>what hinder my prayers? its' wife, church.</li><li>She is not haughty, she do not need respect.</li></ol>",
             "8": "",
             "9": "",
