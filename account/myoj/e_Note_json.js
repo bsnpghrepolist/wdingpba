@@ -32855,7 +32855,7 @@ var _bnotes=
             "4": "250209.091958(ed).<ol><li>Man love gentle and quiet spirit. </li></ol>",
             "5": "",
             "6": "250209.095641(ed).<ol><li>\"So Sarah laughed to herself as she thought, \"After I am worn out and my master is old, will I now have this pleasure?\"\" (Gen18:12 NIV)</li><li>Sarah \"As he was about to enter Egypt, he said to his wife Sarai, \"I know what a beautiful woman you are.\" (Gen12:11 NIV)</li><li>\"and there Abraham said of his wife Sarah, \"She is my sister.\" Then Abimelech king of Gerar sent for Sarah and took her.\" (Gen20:2 NIV)</li><li>\"so she said to Abram, \"The Lord has kept me from having children. Go, sleep with my maidservant; perhaps I can build a family through her.\" Abram agreed to what Sarai said.\" (Gen16:2 NIV)</li><li>\"She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn for Sarah and to weep over her.\" (Gen23:2 NIV)</li></ol>",
-            "7": "250209.095839(ed).<ol><li>Man != woman </li><li>No female philosophers in history </li><li>what hinder my prayers? its' wife, church.</li><li>She is not haughty, she do not need respect.</li><li><br></li></ol>",
+            "7": "250209.100016(ed).<ol><li>Man != woman </li><li>No female philosophers in history </li><li>Man is strong (stubborn) ::woman is weak (gentle) </li><li>what hinder my prayers? its' wife, church.</li><li>She is not haughty, she do not need respect.</li><li><br></li></ol>",
             "8": "",
             "9": "",
             "10": "",
