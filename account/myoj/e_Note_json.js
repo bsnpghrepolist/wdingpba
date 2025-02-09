@@ -32849,7 +32849,7 @@ var _bnotes=
             "25": "18-25 ——-Title: submit bear follow Jesus. ———QA. As Comparing with what we learned, where and how does it differ to Chinese culture? ==========what’s your barriers? "
         },
         "3": {
-            "1": "250209.091714(ed).<ol><li>Divorce is not an option. </li></ol>",
+            "1": "250209.093347(ed).<ol><li>Divorce is not an option. </li><li>Submissive to husband ~ man submit to church ~ church submit to Christ ~ Chris submit to the Lord. </li></ol>",
             "2": "",
             "3": "250209.093044(ed).<ol><li>Outside beauty=outward appearance </li><li>\"But the Lord said to Samuel, \"Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things man looks at. Man looks at the outward appearance, but the Lord looks at the heart.\"\" (1Sa16:7 NIV)</li><li>Any man can wear suits in this cheat and cheap world. </li></ol>",
             "4": "250209.091958(ed).<ol><li>Man love gentle and quiet spirit. </li></ol>",
