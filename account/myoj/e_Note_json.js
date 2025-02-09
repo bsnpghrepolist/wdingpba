@@ -32851,7 +32851,7 @@ var _bnotes=
         "3": {
             "1": "250209.091714(ed).<ol><li>Divorce is not an option. </li></ol>",
             "2": "",
-            "3": "",
+            "3": "250209.092047(ed).<ol><li>Outside beauty. </li><li><br></li></ol>",
             "4": "250209.091958(ed).<ol><li>Man love gentle and quiet spirit. </li></ol>",
             "5": "",
             "6": "",
