@@ -32852,7 +32852,7 @@ var _bnotes=
             "1": "250209.091714(ed).<ol><li>Divorce is not an option. </li></ol>",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "250209.091958(ed).<ol><li>Man love gentle and quiet spirit. </li></ol>",
             "5": "",
             "6": "",
             "7": "<ol><li>what hinder my prayers? its' wife, church.</li><li>She is not haughty, she do not need respect.</li></ol>",
