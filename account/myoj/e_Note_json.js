@@ -32849,7 +32849,7 @@ var _bnotes=
             "25": "18-25 ——-Title: submit bear follow Jesus. ———QA. As Comparing with what we learned, where and how does it differ to Chinese culture? ==========what’s your barriers? "
         },
         "3": {
-            "1": "",
+            "1": "250209.091714(ed).<ol><li>Divorce is not an option. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
