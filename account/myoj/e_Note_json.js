@@ -32851,7 +32851,7 @@ var _bnotes=
         "3": {
             "1": "250209.091714(ed).<ol><li>Divorce is not an option. </li></ol>",
             "2": "",
-            "3": "250209.093025(ed).<ol><li>Outside beauty=outward appearance </li><li>\"But the Lord said to Samuel, \"Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things man looks at. Man looks at the outward appearance, but the Lord looks at the heart.\"\" (1Sa16:7 NIV)</li><li>Any man can wear suits in this cheat world. </li></ol>",
+            "3": "250209.093044(ed).<ol><li>Outside beauty=outward appearance </li><li>\"But the Lord said to Samuel, \"Do not consider his appearance or his height, for I have rejected him. The Lord does not look at the things man looks at. Man looks at the outward appearance, but the Lord looks at the heart.\"\" (1Sa16:7 NIV)</li><li>Any man can wear suits in this cheat and cheap world. </li></ol>",
             "4": "250209.091958(ed).<ol><li>Man love gentle and quiet spirit. </li></ol>",
             "5": "",
             "6": "",
