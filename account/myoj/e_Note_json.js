@@ -32845,7 +32845,7 @@ var _bnotes=
             "21": "Identity of Christian. ",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "250210.094529(ed).<ol><li>\"那知他为我们的过犯受害、为我们的罪孽压伤．因他受的刑罚我们得平安．因他受的鞭伤我们得医治。\" (Isa53:5 CUVS)</li></ol>",
             "25": "18-25 ——-Title: submit bear follow Jesus. ———QA. As Comparing with what we learned, where and how does it differ to Chinese culture? ==========what’s your barriers? "
         },
         "3": {
