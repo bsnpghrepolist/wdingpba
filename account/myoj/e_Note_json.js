@@ -10260,7 +10260,7 @@ var _bnotes=
             "27": ""
         },
         "4": {
-            "1": "",
+            "1": "250215.202503(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12CS04.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12CS04.htm</a></li><li><br></li></ol>",
             "2": "",
             "3": "",
             "4": "",
