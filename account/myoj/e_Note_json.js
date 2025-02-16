@@ -10260,7 +10260,7 @@ var _bnotes=
             "27": ""
         },
         "4": {
-            "1": "250216.131138(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12CS04.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12CS04.htm</a></li><li>Broke ourselves and give everything to Him. </li><li>Stone will become children of God. </li></ol>",
+            "1": "250216.131624(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12CS04.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12CS04.htm</a></li><li>Broke ourselves and give everything to Him. </li><li>Stone will become children of God. </li><li>\"And do not think you can say to yourselves, 'We have Abraham as our father.' I tell you that out of these stones God can raise up children for Abraham.\" (Mat3:9 NIV)</li><li>\"Produce fruit in keeping with repentance. And do not begin to say to yourselves, 'We have Abraham as our father.' For I tell you that out of these stones God can raise up children for Abraham.\" (Luk3:8 NIV)</li><li><br></li></ol>",
             "2": "",
             "3": "",
             "4": "",
