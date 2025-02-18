@@ -10196,7 +10196,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "250218.093713(ed).<ol><li>begged rather than command w name of king. </li></ol>",
             "14": "",
             "15": "",
             "16": "",
