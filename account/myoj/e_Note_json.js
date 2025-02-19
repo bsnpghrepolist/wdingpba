@@ -10196,7 +10196,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "",
-            "13": "250219.094235(ed).<ol><li>The third caption with 50 men begged rather than command w name of king. </li></ol>",
+            "13": "250219.094307(ed).<ol><li>The third caption with 50 men begged rather than commanded him with the name of the king. </li></ol>",
             "14": "",
             "15": "",
             "16": "",
