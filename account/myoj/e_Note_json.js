@@ -10213,7 +10213,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "250124.171123(ed).<ol><li>Spirit is all</li></ol>",
-            "10": "",
+            "10": "250219.095252(ed).<ol><li>It's difficult for Elijah. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
