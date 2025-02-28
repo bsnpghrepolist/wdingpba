@@ -10303,7 +10303,7 @@ var _bnotes=
             "41": "<ol><li>= Jhn2:7</li></ol>",
             "42": "",
             "43": "",
-            "44": "250227.094305(ed).<ol><li>5-loaf-2-fish</li><li>Contrast Kings to working people. </li></ol>"
+            "44": "250228.093859(ed).<ol><li>5-loaf-2-fish</li><li>Contrast Kings to working people.Elisha was disregarded by the kings of Israel but honored by an Israelite woman.</li></ol>"
         },
         "5": {
             "1": "",
