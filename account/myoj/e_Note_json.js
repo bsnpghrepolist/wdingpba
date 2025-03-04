@@ -10321,7 +10321,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "250304.093833(ed).<ol><li>There is no God in all the world exce[t in Israel. </li><li>\"Salvation is found in no one else, for there is no other name under heaven given to men by which we must be saved.\"\" (Act4:12 NIV)</li></ol>",
-            "16": "",
+            "16": "250304.094124(ed).<ol><li>Don't accept the gift from the world.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
