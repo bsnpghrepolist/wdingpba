@@ -28129,7 +28129,7 @@ var _bnotes=
             "3": "d",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "250304.093954(ed).<ol><li>he was sent from God: Contrast to Jesus, He was God.</li></ol>",
             "7": "",
             "8": "",
             "9": "",
