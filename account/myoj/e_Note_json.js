@@ -10320,7 +10320,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "",
+            "15": "250304.093237(ed).<ol><li>There is no God in all the world exce[t in Israel. </li></ol>",
             "16": "",
             "17": "",
             "18": "",
