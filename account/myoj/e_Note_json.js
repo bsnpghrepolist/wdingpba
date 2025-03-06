@@ -10341,7 +10341,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "250306.093227(ed).<ol><li>This miracle aligns with Peter sinking in water. \"\"Lord, if it's you,\" Peter replied, \"tell me to come to you on the water.\"\" (Mat14:28 NIV)</li></ol>",
             "8": "",
             "9": "",
             "10": "",
