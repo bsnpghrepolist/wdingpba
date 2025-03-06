@@ -10337,7 +10337,7 @@ var _bnotes=
         "6": {
             "1": "",
             "2": "",
-            "3": "",
+            "3": "250306.094438(ed).<ol><li>Pray Jesus go with us.</li></ol>",
             "4": "",
             "5": "",
             "6": "250306.094234(ed).<ol><li>Where you fell, where you will be saved.</li></ol>",
