@@ -10335,7 +10335,7 @@ var _bnotes=
             "27": ""
         },
         "6": {
-            "1": "",
+            "1": "250306.094539(ed).<ol><li>We need to expand the church--kingdom of God,</li></ol>",
             "2": "",
             "3": "250306.094438(ed).<ol><li>Pray Jesus go with us.</li></ol>",
             "4": "",
