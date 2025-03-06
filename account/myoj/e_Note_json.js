@@ -31014,7 +31014,7 @@ var _bnotes=
             "51": "",
             "52": "",
             "53": "",
-            "54": "240317_152602 ed.<ol><li>Buddha : the soul is clothed with flesh. </li></ol>",
+            "54": "250306.182913 ed.<ol><li>Buddha : the soul is clothed with flesh. </li><li>\"he will swallow up death forever. The Sovereign Lord will wipe away the tears from all faces; he will remove the disgrace of his people from all the earth. The Lord has spoken.\" (Isa25:8 NIV)</li></ol>",
             "55": "",
             "56": "<ol><li>Death-sin-law</li></ol>",
             "57": "",
