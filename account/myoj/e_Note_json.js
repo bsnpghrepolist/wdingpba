@@ -10341,7 +10341,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "250306.093914(ed).<ol><li>This miracle aligns with story of Peter sinking in water. \"\"Lord, if it's you,\" Peter replied, \"tell me to come to you on the water.\"\" (Mat14:28 NIV)</li><li>Arsion of Jesus. </li><li>The wood aligns with the cross--building church for living.</li><li>The axe aligns our body--borrowed and heavy, keeping decline and falling.</li><li><br></li></ol>",
+            "7": "250306.094022(ed).<ol><li>This miracle aligns with story of Peter sinking in water. \"\"Lord, if it's you,\" Peter replied, \"tell me to come to you on the water.\"\" (Mat14:28 NIV)</li><li>Arsion of Jesus. </li><li>The wood aligns with the cross--building church for living.</li><li>The axe aligns our body--borrowed and heavy, keeping decline and falling.</li><li>Jesus is the overall of all OT miracles.</li></ol>",
             "8": "",
             "9": "",
             "10": "",
