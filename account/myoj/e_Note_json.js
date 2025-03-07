@@ -10350,7 +10350,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "250307.093309(ed).<ol><li>The prophet's words outside result from his inner faith. </li></ol>",
             "17": "",
             "18": "",
             "19": "",
