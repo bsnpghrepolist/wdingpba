@@ -10350,7 +10350,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "250307.094334(ed).<ol><li>The prophet's words outside result from his inner faith. </li><li>focus on the Essence like Elisha. </li></ol>",
+            "16": "250307.094737(ed).<ol><li>The prophet's words outside result from his inner faith. </li><li>focus on the Essence like Elisha. </li><li>We did not need fake comfort but the truth.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
