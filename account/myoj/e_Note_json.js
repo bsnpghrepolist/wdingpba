@@ -10370,7 +10370,7 @@ var _bnotes=
             "33": ""
         },
         "7": {
-            "1": "",
+            "1": "250309.140453(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS07.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS07.htm</a></li><li><br></li></ol>",
             "2": "",
             "3": "",
             "4": "",
