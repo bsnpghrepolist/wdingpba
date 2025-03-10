@@ -28785,7 +28785,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "250310.113628(ed).<ol><li>Jesus’ deed was limited to the area within the small Israel land. We are doing outside—things greater than Jesus did. </li></ol>",
-            "13": "250310.113911(ed).<ol><li>Whatever you asked—for missionary purposes not others. </li></ol>",
+            "13": "250310.114014(ed).<ol><li>Whatever you asked—for missionary purposes not others. </li><li>Paul. I can do anything </li></ol>",
             "14": "",
             "15": "",
             "16": "",
