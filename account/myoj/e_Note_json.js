@@ -28784,7 +28784,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "250310.113534(ed).<ol><li>Jesus’ deed was limited to the area of Israel land. We are doing outside—things greater than Jesus did. </li></ol>",
+            "12": "250310.113628(ed).<ol><li>Jesus’ deed was limited to the area within the small Israel land. We are doing outside—things greater than Jesus did. </li></ol>",
             "13": "",
             "14": "",
             "15": "",
