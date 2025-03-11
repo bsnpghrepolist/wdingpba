@@ -10370,7 +10370,7 @@ var _bnotes=
             "33": ""
         },
         "7": {
-            "1": "250309.140453(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS07.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS07.htm</a></li><li><br></li></ol>",
+            "1": "250311.073407(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS07.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS07.htm</a></li><li>1 Shekel = 11 g.</li></ol>",
             "2": "250311.071330(ed).<ol><li>The result for those who know but not believe.</li></ol>",
             "3": "250311.072108(ed).<ol><li>believe and doers.</li><li>\"有一个长大痲疯的、来拜他说、主若肯、必能叫我洁净了。\" (Mat8:2 CUVS)</li><li>\"先知以利沙的时候、以色列中有许多长大痲疯的．但内中除了叙利亚国的乃缦、没有一个得洁净的。\" (Luk4:27 CUVS)</li></ol>",
             "4": "",
