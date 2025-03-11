@@ -10372,7 +10372,7 @@ var _bnotes=
         "7": {
             "1": "250309.140453(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS07.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS07.htm</a></li><li><br></li></ol>",
             "2": "250311.071330(ed).<ol><li>The result for those who know but not believe.</li></ol>",
-            "3": "250311.071409(ed).<ol><li>believe and doers</li></ol>",
+            "3": "250311.071715(ed).<ol><li>believe and doers.</li><li>\"有一个长大痲疯的、来拜他说、主若肯、必能叫我洁净了。\" (Mat8:2 CUVS)</li></ol>",
             "4": "",
             "5": "",
             "6": "",
