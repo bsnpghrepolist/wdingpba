@@ -10387,7 +10387,7 @@ var _bnotes=
             "15": "",
             "16": "250311.072606(ed).<ol><li>\"以利沙说、你们要听耶和华的话．耶和华如此说明日约到这时候、在撒玛利亚城门口、一细亚细面要卖银一舍客勒、二细亚大麦也要卖银一舍客勒。\" (2Ki7:1 CUVS)</li></ol>",
             "17": "250311.073314(ed).<ol><li>弹压 = in charge of</li></ol>",
-            "18": "250312.093746(ed).<ol><li>https://biblegeography.holylight.org.tw/index/city?id=118 </li></ol>",
+            "18": "250312.093808(ed).<ol><li>loation: https://biblegeography.holylight.org.tw/index/city?id=118 </li></ol>",
             "19": "",
             "20": ""
         },
