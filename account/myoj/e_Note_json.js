@@ -10401,7 +10401,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "250313.093626(ed).<ol><li>Divination vs pray. </li></ol>",
-            "10": "250313.094155(ed).<ol><li>seek Dinination from the man of God--good.</li><li>divination rather than pray--bad. </li><li>the man of God cannot change the world and the will of man but knows the will of God. </li><li>man can only win heart but not soul. </li></ol>",
+            "10": "250313.094336(ed).<ol><li>seek Dinination from the man of God--good.</li><li>divination rather than pray--bad. </li><li>the man of God cannot change the world and the will of man but knows the will of God. </li><li>Devil also know the will of God.</li><li>man can only win heart but not soul. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
