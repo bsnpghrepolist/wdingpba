@@ -10401,7 +10401,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "250313.093626(ed).<ol><li>Divination vs pray. </li></ol>",
-            "10": "",
+            "10": "250313.093832(ed).<ol><li>seek Dinination from the man of God--good.</li><li>divination rather than pray--bad. </li></ol>",
             "11": "",
             "12": "",
             "13": "",
