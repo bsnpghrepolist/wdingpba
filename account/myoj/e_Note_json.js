@@ -10402,7 +10402,7 @@ var _bnotes=
             "8": "",
             "9": "250314.092922(ed).<ol><li>Divination vs prayer. </li><li>Gentiles' kings</li></ol>",
             "10": "250313.094336(ed).<ol><li>seek Dinination from the man of God--good.</li><li>divination rather than pray--bad. </li><li>the man of God cannot change the world and the will of man but knows the will of God. </li><li>Devil also know the will of God.</li><li>man can only win heart but not soul. </li></ol>",
-            "11": "",
+            "11": "250314.093415(ed).<ol><li>mercy of God for Israelites.</li></ol>",
             "12": "",
             "13": "",
             "14": "250314.093143(ed).<ol><li>partial answer--the serpen's word</li></ol>",
