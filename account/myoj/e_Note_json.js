@@ -10500,7 +10500,7 @@ var _bnotes=
             "36": ""
         },
         "11": {
-            "1": "",
+            "1": "250316.194438(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS11.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS11.htm</a></li><li><br></li></ol>",
             "2": "",
             "3": "",
             "4": "",
