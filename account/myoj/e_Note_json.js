@@ -10423,7 +10423,7 @@ var _bnotes=
             "29": ""
         },
         "9": {
-            "1": "",
+            "1": "250316.195928(ed).<ol><li><a style=\"caret-color: rgb(87, 84, 84); color: rgb(87, 84, 84); font-weight: 700; -webkit-text-size-adjust: auto; background-color: rgb(243, 125, 217);\">以色列王 耶户.  背叛 约兰</a></li><li>杀你主人亚哈的全家</li></ol>",
             "2": "",
             "3": "",
             "4": "",
