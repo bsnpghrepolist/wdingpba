@@ -10950,7 +10950,7 @@ var _bnotes=
             "27": "",
             "28": "",
             "29": "",
-            "30": ""
+            "30": "\n<div>\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<caption>Kings Name List</caption>\n\t<thead>\n\t\t<tr>\n\t\t\t<th scope=\"col\">#</th>\n\t\t\t<th scope=\"col\">Israel</th>\n\t\t\t<th scope=\"col\">Judah</th>\n\t\t\t<th scope=\"col\">yrs</th>\n\t\t\t<th scope=\"col\">Verse</th>\n\t\t</tr>\n\t</thead>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td/></tr></tbody></table></div>"
         }
     },
     "1Ch": {
