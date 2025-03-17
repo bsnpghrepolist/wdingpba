@@ -10409,7 +10409,7 @@ var _bnotes=
             "15": "",
             "16": "250316.202440(ed).<ol><li>Israel: Joram (约兰), son of Ahab(亚哈）</li><li>Judah: Jehoram (约兰), son of Jehoshaphat (约沙法), both alive.</li></ol>",
             "17": "250316.202548(ed).<ol><li>Judah: Jehoram (约兰)</li></ol>",
-            "18": "",
+            "18": "250316.202942(ed).<ol><li>Judah: Jehoram (约兰) -- wife -- daughter of Ahab(亚哈) in Israel. </li></ol>",
             "19": "",
             "20": "",
             "21": "",
