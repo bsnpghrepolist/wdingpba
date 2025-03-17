@@ -10417,7 +10417,7 @@ var _bnotes=
             "23": "",
             "24": "",
             "25": "250316.210559(ed).<ol><li>以色列王 亚哈 (Ahab) 的儿子 约兰 (Johram)十二年、犹大王 约兰(Joram)的儿子  亚哈谢 (Ahaziah) 登基</li></ol>",
-            "26": "250316.210545(ed).<ol><li>亚哈谢 (Ahaziah) in </li></ol>",
+            "26": "250316.232645(ed).<ol><li>Israel: 亚哈谢 (Ahaziah) at age of 22.  his mother 亚他利雅(Athaliah), a granddaughter of Omri (暗利) king of Israel.</li></ol>",
             "27": "",
             "28": "",
             "29": ""
