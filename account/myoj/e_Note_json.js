@@ -10500,7 +10500,7 @@ var _bnotes=
             "36": ""
         },
         "11": {
-            "1": "250316.194438(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS11.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS11.htm</a></li><li><br></li></ol>",
+            "1": "250316.210552(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS11.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS11.htm</a></li><li>\"以色列王亚哈 (Ahab) 的儿子约兰 (Johram)十二年、犹大王约兰(Joram)的儿子亚哈谢登基。\" (2Ki8:25 CUVS)</li><li>\"他登基的时候、年二十二岁、在耶路撒冷作王一年．他母亲名叫亚他利雅、是以色列王暗利的孙女。\" (2Ki8:26 CUVS) </li></ol>",
             "2": "",
             "3": "",
             "4": "",
