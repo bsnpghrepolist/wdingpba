@@ -10501,7 +10501,7 @@ var _bnotes=
         },
         "11": {
             "1": "250316.235119(ed).<ol><li><a href=\"https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS11.htm\">https://www.ccbiblestudy.org/Old%20Testament/12%202King/12GS11.htm</a></li><li>\"以色列王亚哈 (Ahab) 的儿子约兰 (Johram)十二年、犹大王约兰(Joram)的儿子亚哈谢登基。\" (2Ki8:25 CUVS)</li><li>\"他登基的时候、年二十二岁、在耶路撒冷作王一年．他母亲名叫 亚他利雅(Athaliah)、是以色列王暗利的孙女。\" (2Ki8:26 CUVS) </li><li>亚他利雅(Athaliah)'s parents: Ahab (亚哈, Israel King) , wife 耶洗别(Jezebel) \"</li><li>\"犹大王 亚哈谢(Ahaziah) 见这光景、就从园亭之路逃跑。耶户追赶他说、把这人也杀在车上。到了靠近以伯莲姑珥的坡上击伤了他。他逃到米吉多、就死在那里。\" (2Ki9:27 CUVS)</li></ol>",
-            "2": "",
+            "2": "250317.075655(ed).<ol><li>Israel King Joram (约兰) .</li></ol>",
             "3": "",
             "4": "",
             "5": "",
