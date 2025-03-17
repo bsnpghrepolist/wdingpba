@@ -10424,7 +10424,7 @@ var _bnotes=
         },
         "9": {
             "1": "250316.195928(ed).<ol><li><a style=\"caret-color: rgb(87, 84, 84); color: rgb(87, 84, 84); font-weight: 700; -webkit-text-size-adjust: auto; background-color: rgb(243, 125, 217);\">以色列王 耶户.  背叛 约兰</a></li><li>杀你主人亚哈的全家</li></ol>",
-            "2": "250316.204007(ed).<ol><li>Israel: Jehu (耶户) , son of  Jehoshaphat (约沙法), son of Nimshi (宁示).  </li><li>Israel: Joram (约兰), son of Ahab (亚哈) king. </li><li>(2Ki8:16 e_Note) </li></ol>",
+            "2": "250317.082053(ed).<ol><li>Israel: Jehu (耶户, General), son of   Jehoshaphat (约沙法 Judah King), son of Nimshi (宁示).  </li><li>Israel: Joram (约兰), son of Ahab (亚哈) king. </li><li>(2Ki8:16 e_Note) </li></ol>",
             "3": "",
             "4": "",
             "5": "",
