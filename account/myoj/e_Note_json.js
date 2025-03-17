@@ -10430,7 +10430,7 @@ var _bnotes=
             "5": "",
             "6": "",
             "7": "",
-            "8": "",
+            "8": "250316.204914(ed).<ol><li>The whole house of Ahab (亚哈, Israel King) will perish.</li></ol>",
             "9": "",
             "10": "",
             "11": "",
