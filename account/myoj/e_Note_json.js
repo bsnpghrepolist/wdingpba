@@ -10432,7 +10432,7 @@ var _bnotes=
             "7": "",
             "8": "250316.204914(ed).<ol><li>The whole house of Ahab (亚哈, Israel King) will perish.</li></ol>",
             "9": "",
-            "10": "",
+            "10": "250316.205142(ed).<ol><li>Jezebel (耶洗别) wife of Ahab (亚哈, Israel King)</li></ol>",
             "11": "",
             "12": "",
             "13": "",
