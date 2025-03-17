@@ -10407,7 +10407,7 @@ var _bnotes=
             "13": "",
             "14": "250314.093143(ed).<ol><li>partial answer--the serpen's word</li></ol>",
             "15": "",
-            "16": "250316.201133(ed).<ol><li>Israel: Joram 约兰 Ahab(亚哈）</li></ol>",
+            "16": "250316.202440(ed).<ol><li>Israel: Joram (约兰), son of Ahab(亚哈）</li><li>Judah: Jehoram (约兰), son of Jehoshaphat (约沙法), both alive.</li></ol>",
             "17": "",
             "18": "",
             "19": "",
