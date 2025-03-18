@@ -10443,7 +10443,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "250318.094526(ed).<ol><li>犹大王 亚哈谢 Ahaziah<br></li><li>以色列 王约兰 Joram </li><li>亚兰 (Aram) 王 哈薛 (Hazael)</li></ol>",
+            "21": "250318.094655(ed).<ol><li>犹大王 亚哈谢 Ahaziah -- son-in-law of Zebel</li><li>以色列 王约兰 Joram -- son of Zebel</li><li>亚兰 (Aram) 王 哈薛 (Hazael)</li></ol>",
             "22": "",
             "23": "",
             "24": "",
