@@ -10443,7 +10443,7 @@ var _bnotes=
             "18": "",
             "19": "",
             "20": "",
-            "21": "250318.094755(ed).<ol><li>犹大王 亚哈谢 Ahaziah -- son-in-law of Zebel and Halan Israel King</li><li>以色列 王约兰 Joram -- son of Zebel and Halan Israel King</li><li>亚兰 (Aram) 王 哈薛 (Hazael)</li></ol>",
+            "21": "250319.093933(ed).<ol><li>3 kingdoms: USA, USSR, China</li><li>犹大王 亚哈谢 Ahaziah -- son-in-law of Zebel and Halan Israel King</li><li>以色列 王约兰 Joram -- son of Zebel and Halan Israel King</li><li>亚兰 (Aram) 王 哈薛 (Hazael)</li></ol>",
             "22": "",
             "23": "",
             "24": "",
