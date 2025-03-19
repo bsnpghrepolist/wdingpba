@@ -10428,7 +10428,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "250319.093611(ed).<ol><li>paralell to Paul.</li></ol>",
             "7": "",
             "8": "250316.204914(ed).<ol><li>The whole house of Ahab (亚哈, Israel King) will perish.</li></ol>",
             "9": "",
