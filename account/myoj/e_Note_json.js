@@ -10430,7 +10430,7 @@ var _bnotes=
             "5": "",
             "6": "250319.093611(ed).<ol><li>paralell to Paul.</li></ol>",
             "7": "",
-            "8": "250316.204914(ed).<ol><li>The whole house of Ahab (亚哈, Israel King) will perish.</li></ol>",
+            "8": "250319.094427(ed).<ol><li>The whole house of Ahab (亚哈, Israel King) will perish.</li><li>Zezbel: 1Ch16:1</li></ol>",
             "9": "",
             "10": "250316.205142(ed).<ol><li>Jezebel (耶洗别) wife of Ahab (亚哈, Israel King)</li></ol>",
             "11": "",
