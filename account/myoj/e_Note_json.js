@@ -10462,7 +10462,7 @@ var _bnotes=
             "37": "250316.234524(ed).<ol><li>Ahab (亚哈, Israel King) , wife 耶洗别(Jezebel) </li></ol>"
         },
         "10": {
-            "1": "",
+            "1": "250320.093151(ed).<ol><li>Ahab is 10th gen king.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
