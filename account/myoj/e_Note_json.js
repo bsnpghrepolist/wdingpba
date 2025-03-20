@@ -10472,7 +10472,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
+            "11": "250320.094009(ed).<ol><li>Ahab's sin gets retribution after a long time.</li></ol>",
             "12": "",
             "13": "",
             "14": "",
