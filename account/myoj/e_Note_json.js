@@ -10511,7 +10511,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "250323.110536(ed).<ol><li>3kingdom reflection</li><li>A world without lord. is er Yu wo za. Chen zhe wei wang bai we koi. </li><li>Wisdom of evil. </li><li>Glorify of person </li><li>Politics is evil. Chinese politics is always evil. But not all cultures. Culture politics.</li><li>Interesting—temptations </li><li>Taboos </li></ol>",
-            "12": "250323.110635(ed).<ol><li>Chinese politics </li></ol>",
+            "12": "250323.110657(ed).<ol><li>Similar to Chinese politics </li></ol>",
             "13": "",
             "14": "",
             "15": "",
