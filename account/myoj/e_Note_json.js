@@ -10510,7 +10510,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "250323.105123(ed).<ol><li>3kingdom reflection</li><li>A world without lord. is er Yu wo za. Chen zhe wei wang bai we koi. </li><li>Wisdom of evil. </li><li>Glorify of person </li><li>Politics is evil. Chinese politics is always evil. But not all cultures. Culture politics.</li><li>Interesting   </li><li>Taboos </li></ol>",
+            "11": "250323.110536(ed).<ol><li>3kingdom reflection</li><li>A world without lord. is er Yu wo za. Chen zhe wei wang bai we koi. </li><li>Wisdom of evil. </li><li>Glorify of person </li><li>Politics is evil. Chinese politics is always evil. But not all cultures. Culture politics.</li><li>Interesting—temptations </li><li>Taboos </li></ol>",
             "12": "",
             "13": "",
             "14": "",
