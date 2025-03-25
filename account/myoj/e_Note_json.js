@@ -32231,7 +32231,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "250325.080945(ed).<ol><li>compare to others which misleads to temptation </li></ol>",
             "17": ""
         },
         "4": {
