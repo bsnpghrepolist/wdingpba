@@ -10524,7 +10524,7 @@ var _bnotes=
         },
         "12": {
             "1": "",
-            "2": "",
+            "2": "250327.094929(ed).<ol><li>Priest influences King's faith.</li></ol>",
             "3": "250327.094122(ed).<ol><li>King's faith can significantly influence people's faith.</li><li>King's faith is the result of the people's faith.</li></ol>",
             "4": "",
             "5": "",
