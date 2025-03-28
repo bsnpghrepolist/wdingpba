@@ -10539,7 +10539,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
+            "17": "250328.094226(ed).<ol><li>https://biblegeography.holylight.org.tw/images/admin/book_file/c629a4c860b6cc8a799db846c80287e0.pdf</li></ol>",
             "18": "",
             "19": "",
             "20": "",
