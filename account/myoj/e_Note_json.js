@@ -10547,7 +10547,7 @@ var _bnotes=
         },
         "13": {
             "1": "",
-            "2": "",
+            "2": "250330.064532(ed).<ol><li>King cause people to commit sin. </li></ol>",
             "3": "",
             "4": "",
             "5": "",
