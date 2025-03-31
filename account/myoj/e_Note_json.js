@@ -10565,7 +10565,7 @@ var _bnotes=
             "17": "",
             "18": "",
             "19": "",
-            "20": "",
+            "20": "250331.094205(ed).<ol><li>resurrected people will die again. </li><li>miracle for dead; </li></ol>",
             "21": "",
             "22": "",
             "23": "",
