@@ -10565,7 +10565,7 @@ var _bnotes=
             "17": "",
             "18": "",
             "19": "",
-            "20": "250331.094240(ed).<ol><li>resurrected people will die again. </li><li>miracle for dead; </li><li>stubborn people;</li></ol>",
+            "20": "250331.094427(ed).<ol><li>resurrected people will die again. -- the resurrection of Jesus</li><li>miracle for dead; </li><li>stubborn people -- sin</li><li>missionary life.</li></ol>",
             "21": "",
             "22": "",
             "23": "",
