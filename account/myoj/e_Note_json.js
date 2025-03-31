@@ -10558,7 +10558,7 @@ var _bnotes=
             "10": "250330.172125(ed).<ol><li>Confused Chinese names. </li></ol>",
             "11": "",
             "12": "",
-            "13": "250330.225444(ed).<ol><li>2Ki14:16 son of king</li></ol>",
+            "13": "250330.225934(ed).<ol><li>2Ki14:16 son of king</li><li>Uttered earlier. </li></ol>",
             "14": "",
             "15": "",
             "16": "",
