@@ -10601,7 +10601,7 @@ var _bnotes=
             "26": "",
             "27": "",
             "28": "",
-            "29": ""
+            "29": "250403.095558(ed).<ol><li>Do not judge from world perspective.</li><li>Obey faithfully.</li><li><br></li></ol>"
         },
         "15": {
             "1": "",
