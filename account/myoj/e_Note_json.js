@@ -10608,7 +10608,7 @@ var _bnotes=
             "2": "",
             "3": "",
             "4": "",
-            "5": "",
+            "5": "250404.094717(ed).<ol><li>Citizens sin, and the king is punished.</li></ol>",
             "6": "",
             "7": "",
             "8": "",
