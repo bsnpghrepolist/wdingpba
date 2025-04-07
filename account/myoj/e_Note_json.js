@@ -10637,7 +10637,7 @@ var _bnotes=
             "31": "",
             "32": "",
             "33": "",
-            "34": "",
+            "34": "250407.144014(ed).<ol><li>did what was right in the eyes of the Lord. What about his heart?</li></ol>",
             "35": "",
             "36": "",
             "37": "",
