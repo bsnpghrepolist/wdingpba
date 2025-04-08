@@ -10635,7 +10635,7 @@ var _bnotes=
             "29": "",
             "30": "",
             "31": "",
-            "32": "",
+            "32": "250408.083849(ed).<ol><li>Son inherited—Christians inherited the kingdom of God. </li></ol>",
             "33": "250407.144206(ed).<ol><li>youthfulness is weak in spirit except Jesus.</li></ol>",
             "34": "250407.144014(ed).<ol><li>did what was right in the eyes of the Lord. What about his heart?</li></ol>",
             "35": "250407.144046(ed).<ol><li>Form matter</li></ol>",
