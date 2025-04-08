@@ -10640,7 +10640,7 @@ var _bnotes=
             "34": "250407.144014(ed).<ol><li>did what was right in the eyes of the Lord. What about his heart?</li></ol>",
             "35": "250407.144046(ed).<ol><li>Form matter</li></ol>",
             "36": "",
-            "37": "250408.084847(ed).<ol><li>Taiwan </li><li>Politics. — Will of God. </li></ol>",
+            "37": "250408.084929(ed).<ol><li>Taiwan </li><li>Politics. — Will of God. </li><li>We missionary </li></ol>",
             "38": ""
         },
         "16": {
