@@ -10636,7 +10636,7 @@ var _bnotes=
             "30": "",
             "31": "",
             "32": "250408.091929(ed).<ol><li>Son inherited—Christians inherited the kingdom of God. </li><li>Who is Remaliah? 2Ki15:25. </li></ol>",
-            "33": "250408.084010(ed).<ol><li>youthfulness is weak in spirit except Jesus.</li><li>Testimonies </li></ol>",
+            "33": "250408.102317(ed).<ol><li>youthfulness is weak in spirit except Jesus.</li><li>Testimonies </li><li>大部分学者认为约坦与乌西雅共同执政10年，然后自己单独执政6年，最后与亚哈斯共同执政4年。https://www.ccbiblestudy.org/Old%20Testament/14%202Chro/14GS27.htm </li></ol>",
             "34": "250407.144014(ed).<ol><li>did what was right in the eyes of the Lord. What about his heart?</li></ol>",
             "35": "250407.144046(ed).<ol><li>Form matter</li></ol>",
             "36": "",
