@@ -10669,7 +10669,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "250411.094457(ed).<ol><li>little wisdom</li></ol>",
             "5": "",
             "6": "250411.094419(ed).<ol><li>https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=2186&top=0704</li></ol>",
             "7": "",
