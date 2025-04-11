@@ -17815,7 +17815,7 @@ var _bnotes=
             "20": "",
             "21": "",
             "22": "",
-            "23": "<ol><li>Whoever believes in me, as the Scripture has said, streams of living water will flow from within him.\"\" (Jhn7:38 NIV)</li><li>Chinese translation contains prosperity gospels. </li></ol>",
+            "23": "250411.094742(ed).<ol><li>Whoever believes in me, as the Scripture has said, streams of living water will flow from within him.\"\" (Jhn7:38 NIV)</li><li>Chinese translation contains prosperity gospels. </li><li>heart more important than knowledfe. knowledge serves for heart.</li></ol>",
             "24": "",
             "25": "",
             "26": "",
