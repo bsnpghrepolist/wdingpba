@@ -10674,7 +10674,7 @@ var _bnotes=
             "6": "250411.094419(ed).<ol><li>https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=2186&top=0704</li></ol>",
             "7": "",
             "8": "",
-            "9": "",
+            "9": "250411.094845(ed).<ol><li>secretly against the LORD</li></ol>",
             "10": "",
             "11": "",
             "12": "",
