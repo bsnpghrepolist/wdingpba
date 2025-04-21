@@ -10799,7 +10799,7 @@ var _bnotes=
             "10": "",
             "11": "",
             "12": "250421.093512(ed).<ol><li>Temptation from Gentile</li></ol>",
-            "13": "",
+            "13": "250421.094101(ed).<ol><li>Keep the gospel holy</li></ol>",
             "14": "",
             "15": "",
             "16": "",
