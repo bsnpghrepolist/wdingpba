@@ -10950,7 +10950,7 @@ var _bnotes=
             "27": "",
             "28": "",
             "29": "",
-            "30": "\n<div>\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:500px;\">\n\t<caption>\n\t<div>Worship idol and idol care of them<br/></div></caption></table></div>"
+            "30": "\n<div>\nEvil serves people hard and soul. \n</div>\n"
         }
     },
     "1Ch": {
