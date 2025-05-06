@@ -32925,7 +32925,7 @@ var _bnotes=
             "11": "250502.101903(ed).<ol><li>\"我一生一世必有恩惠慈爱随着我．我且要住在耶和华的殿中、直到永远。\" (Psm23:6 CUVS)</li></ol>",
             "12": "250505.210404(ed).<ol><li>Fruits: quantity: quality:(firmly in faith and truth)</li><li>Eternal kingdom and life. </li></ol>",
             "13": "",
-            "14": "",
+            "14": "250505.210828(ed).<ol><li>Peter’s external life view. </li></ol>",
             "15": "250505.210531(ed).<ol><li>Make every effort; be more eager(diligent) to make effort (2Pe1:10);</li><li>Keep from being inefficient and unfruitful (2Pe1:8);</li><li><br></li><li>The worldly life. </li></ol>",
             "16": "241120_093923(ed).<ol><li>Siner ignores the miracle of God.</li></ol>",
             "17": "",
