@@ -32926,7 +32926,7 @@ var _bnotes=
             "12": "250505.210404(ed).<ol><li>Fruits: quantity: quality:(firmly in faith and truth)</li><li>Eternal kingdom and life. </li></ol>",
             "13": "",
             "14": "250505.210828(ed).<ol><li>Peter’s external life view. </li></ol>",
-            "15": "250505.210531(ed).<ol><li>Make every effort; be more eager(diligent) to make effort (2Pe1:10);</li><li>Keep from being inefficient and unfruitful (2Pe1:8);</li><li><br></li><li>The worldly life. </li></ol>",
+            "15": "250505.210944(ed).<ol><li>Make every effort; be more eager(diligent) to make effort (2Pe1:10);</li><li>Keep from being inefficient and unfruitful (2Pe1:8);</li><li><br></li><li>The worldly life. </li><li><br></li><li>How to live in this world?</li><li>How to prepare the after life?</li></ol>",
             "16": "241120_093923(ed).<ol><li>Siner ignores the miracle of God.</li></ol>",
             "17": "",
             "18": "",
