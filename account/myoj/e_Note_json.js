@@ -32923,7 +32923,7 @@ var _bnotes=
             "9": "250502.102912(ed).<ol><li>never forget the salvation--and past sins.</li></ol>",
             "10": "",
             "11": "250502.101903(ed).<ol><li>\"我一生一世必有恩惠慈爱随着我．我且要住在耶和华的殿中、直到永远。\" (Psm23:6 CUVS)</li></ol>",
-            "12": "241120_093309(ed).<ol><li>Fruits: quantity: quality:(firmly in faith and truth)</li></ol>",
+            "12": "250505.210404(ed).<ol><li>Fruits: quantity: quality:(firmly in faith and truth)</li><li>Eternal kingdom and life. </li></ol>",
             "13": "",
             "14": "",
             "15": "241120_093831(ed).<ol><li>Make every effort; be more eager(diligent) to make effort (2Pe1:10);</li><li>Keep from being inefficient and unfruitful (2Pe1:8);</li></ol>",
