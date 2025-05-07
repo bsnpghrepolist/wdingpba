@@ -32922,7 +32922,7 @@ var _bnotes=
             "8": "241118_164230(ed).<ol><li>Quantity: multiple on earth. (OT)</li><li>Quality: deep understanding truth. (NT)</li></ol>",
             "9": "250502.102912(ed).<ol><li>never forget the salvation--and past sins.</li></ol>",
             "10": "",
-            "11": "250502.101903(ed).<ol><li>\"我一生一世必有恩惠慈爱随着我．我且要住在耶和华的殿中、直到永远。\" (Psm23:6 CUVS)</li></ol>",
+            "11": "250507.093946(ed).<ol><li>\"我一生一世必有恩惠慈爱随着我．我且要住在耶和华的殿中、直到永远。\" (Psm23:6 CUVS)</li><li>eternal kingdom: contrast to the death (deconstruction)</li></ol>",
             "12": "250505.210404(ed).<ol><li>Fruits: quantity: quality:(firmly in faith and truth)</li><li>Eternal kingdom and life. </li></ol>",
             "13": "",
             "14": "250505.210828(ed).<ol><li>Peter’s external life view. </li></ol>",
