@@ -32946,7 +32946,7 @@ var _bnotes=
             "9": "",
             "10": "241122_094305(ed).<ol><li>Bold and wilful: can be seen in the presidential campaign. </li></ol>",
             "11": "",
-            "12": "",
+            "12": "250507.094537(ed).<ol><li>These (Christians). </li></ol>",
             "13": "241122_093525(ed).<ol><li>pleasure with deceptions. showing off the wisdom satisfying the success over other people. </li></ol>",
             "14": "",
             "15": "",
