@@ -10955,7 +10955,7 @@ var _bnotes=
     },
     "1Ch": {
         "1": {
-            "1": "",
+            "1": "250511.114159(ed).<ol><li><a href=\"https://onemessianicgentile.com/biblefamilytree/default.html\">https://onemessianicgentile.com/biblefamilytree/default.html</a></li><li>Understanding who am I </li><li>understanding the will of lord </li><li>understanding my mission of god.  </li></ol>",
             "2": "",
             "3": "",
             "4": "",
