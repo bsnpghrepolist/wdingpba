@@ -11142,7 +11142,7 @@ var _bnotes=
             "1": "",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "250520.092555(ed).<ol><li>https://onemessianicgentile.com/biblefamilytree/chinese.html </li></ol>",
             "5": "",
             "6": "",
             "7": "",
