@@ -11143,7 +11143,7 @@ var _bnotes=
             "2": "",
             "3": "",
             "4": "250520.092555(ed).<ol><li>https://onemessianicgentile.com/biblefamilytree/chinese.html </li></ol>",
-            "5": "",
+            "5": "250521.093220(ed).<ol><li>Baal = gentile lord</li></ol>",
             "6": "",
             "7": "",
             "8": "",
