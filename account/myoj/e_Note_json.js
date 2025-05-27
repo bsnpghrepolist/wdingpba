@@ -10955,7 +10955,7 @@ var _bnotes=
     },
     "1Ch": {
         "1": {
-            "1": "250527.131412(ed).<ol><li><a href=\"https://onemessianicgentile.com/biblefamilytree/default.html\">https://onemessianicgentile.com/biblefamilytree/default.html</a></li><li>https://www.conformingtojesus.com/images/webpages/12_sons_of_jacob-12_tribes_of_israel_chart_1.jpg </li><li>Understanding who am I </li><li>understanding the will of lord </li><li>understanding my mission of god.  </li></ol>",
+            "1": "\n<div>250511.114159(ed).\n<ol>\n\t<li><a href=\"https://onemessianicgentile.com/biblefamilytree/default.html\">https://onemessianicgentile.com/biblefamilytree/default.html</a></li>\n\t<li><a href=\"https://www.conformingtojesus.com/images/webpages/12_sons_of_jacob-12_tribes_of_israel_chart_1.jpg\">https://www.conformingtojesus.com/images/webpages/12_sons_of_jacob-12_tribes_of_israel_chart_1.jpg</a></li></ol></div>",
             "2": "",
             "3": "",
             "4": "",
