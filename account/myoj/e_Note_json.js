@@ -11350,7 +11350,7 @@ var _bnotes=
             "14": "",
             "15": "",
             "16": "",
-            "17": "",
+            "17": "250603.065532(ed).<ol><li>Shallum: Meaning</li><li>Levit: return home; spiritual meaning: </li><li><br></li></ol>",
             "18": "",
             "19": "",
             "20": "",
