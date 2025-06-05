@@ -11393,7 +11393,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": "250605.090453(ed).<ol><li>\"He trusts in God. Let God rescue him now if he wants him, for he said, 'I am the Son of God.' \"\" (Mat27:43 NIV)</li></ol>"
+            "14": "250605.090805(ed).<ol><li>\"He trusts in God. Let God rescue him now if he wants him, for he said, 'I am the Son of God.' \"\" (Mat27:43 NIV)</li><li>\"Command those who are rich in this present world not to be arrogant nor to put their hope in wealth, which is so uncertain, but to put their hope in God, who richly provides us with everything for our enjoyment.\" (1Ti6:17 NIV)</li></ol>"
         },
         "11": {
             "1": "",
