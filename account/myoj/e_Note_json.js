@@ -11393,7 +11393,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": ""
+            "14": "250605.090453(ed).<ol><li>\"He trusts in God. Let God rescue him now if he wants him, for he said, 'I am the Son of God.' \"\" (Mat27:43 NIV)</li></ol>"
         },
         "11": {
             "1": "",
