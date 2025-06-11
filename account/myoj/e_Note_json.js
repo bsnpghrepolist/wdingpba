@@ -11484,7 +11484,7 @@ var _bnotes=
             "37": "",
             "38": "",
             "39": "",
-            "40": ""
+            "40": "250611.071524(ed).<ol><li>\"since what may be known about God is plain to them, because God has made it plain to them.\" (Rom1:19 NIV)</li></ol>"
         },
         "13": {
             "1": "",
