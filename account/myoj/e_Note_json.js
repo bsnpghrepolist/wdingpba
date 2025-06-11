@@ -11473,7 +11473,7 @@ var _bnotes=
             "26": "250611.065600(ed).<ol><li>The Levites were also not counted in the census because they were not expected to fight in Israel's army or own land. Instead, they were set apart to serve God as His ministers, and were given special responsibilities in regard to the tabernacle.</li></ol>",
             "27": "",
             "28": "",
-            "29": "",
+            "29": "250611.072253(ed).<ol><li>seek the truth rather than flesh family.</li></ol>",
             "30": "",
             "31": "",
             "32": "",
