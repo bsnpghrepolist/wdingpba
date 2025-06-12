@@ -11496,7 +11496,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "250612.093912(ed).<ol><li>fear of the Lord</li><li><br></li></ol>",
+            "10": "250612.094302(ed).<ol><li>fear of the Lord</li><li>using soul, not spirit, to put hand.</li></ol>",
             "11": "",
             "12": "",
             "13": "",
