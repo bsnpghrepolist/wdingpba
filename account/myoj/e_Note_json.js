@@ -11513,7 +11513,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
+            "11": "250613.094718(ed).<ol><li>May God break out our enemy by my hand</li></ol>",
             "12": "",
             "13": "",
             "14": "",
