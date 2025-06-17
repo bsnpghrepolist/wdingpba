@@ -11598,7 +11598,7 @@ var _bnotes=
             "43": ""
         },
         "17": {
-            "1": "250617.085227(ed).<ol><li>\"在希伯仑作犹大王七年零六个月．在耶路撒冷作以色列和犹大王三十三年。\" (2Sa5:5 CUVS)</li></ol>",
+            "1": "250617.090304(ed).<ol><li>What did David think of?</li><li>\"在希伯仑作犹大王七年零六个月．在耶路撒冷作以色列和犹大王三十三年。\" (2Sa5:5 CUVS)</li></ol>",
             "2": "",
             "3": "250617.085345(ed).<ol><li>Why didn't God speak with David directly?</li></ol>",
             "4": "250617.085413(ed).<ol><li>Why not?</li></ol>",
