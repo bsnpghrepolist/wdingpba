@@ -11677,7 +11677,7 @@ var _bnotes=
             "8": ""
         },
         "21": {
-            "1": "",
+            "1": "250627.093447(ed).<ol><li>the purpose of census is get pride</li></ol>",
             "2": "",
             "3": "",
             "4": "",
