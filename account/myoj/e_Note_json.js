@@ -11683,7 +11683,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "",
+            "7": "250627.093858(ed).<ol><li>If we knew the number, we would not count on Him.</li></ol>",
             "8": "",
             "9": "",
             "10": "",
