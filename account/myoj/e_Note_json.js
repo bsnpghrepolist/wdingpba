@@ -11677,7 +11677,7 @@ var _bnotes=
             "8": ""
         },
         "21": {
-            "1": "250627.093533(ed).<ol><li>the purpose of census is get pride, not to confront the enemy.</li></ol>",
+            "1": "250627.093648(ed).<ol><li>the purpose of census is get pride, not to confront the enemy.</li><li>Possibly to prevent Joab's rebellion. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
