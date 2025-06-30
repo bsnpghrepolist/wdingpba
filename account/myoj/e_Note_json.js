@@ -11754,7 +11754,7 @@ var _bnotes=
             "22": "",
             "23": "",
             "24": "",
-            "25": "250630.111255(ed).<ol><li>human nation cannot bring peace forever.</li></ol>",
+            "25": "250630.111326(ed).<ol><li>human nation cannot bring peace forever.</li><li>personal life cannot have utobian life at at all.</li></ol>",
             "26": "",
             "27": "",
             "28": "",
