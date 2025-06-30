@@ -11759,7 +11759,7 @@ var _bnotes=
             "27": "250630.111410(ed).<ol><li>David's command to count.</li></ol>",
             "28": "",
             "29": "",
-            "30": "",
+            "30": "250630.112017(ed).<ol><li>Is it possible to be boring?</li></ol>",
             "31": "",
             "32": ""
         },
