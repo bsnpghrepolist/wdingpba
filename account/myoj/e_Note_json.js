@@ -11732,7 +11732,7 @@ var _bnotes=
         "23": {
             "1": "",
             "2": "",
-            "3": "250630.105708(ed).<ol><li>Why is it ok to count this time? How differ from David's previous time?.\"撒但起来攻击以色列人、激动大卫数点他们。\" (1Ch21:1 CUVS)</li><li>US statistic population?</li><li>for political campian?</li><li>for millitary?</li><li>Christians need to be careful about privacy protection.</li></ol>",
+            "3": "250630.105949(ed).<ol><li>Why is it ok to count this time? How differ from David's previous time?.\"撒但起来攻击以色列人、激动大卫数点他们。\" (1Ch21:1-5 CUVS)</li><li>US statistic population?</li><li>for political campian?</li><li>for millitary?</li><li>Christians need to be careful about privacy protection.</li></ol>",
             "4": "",
             "5": "",
             "6": "",
