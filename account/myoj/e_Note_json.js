@@ -11732,7 +11732,7 @@ var _bnotes=
         "23": {
             "1": "",
             "2": "",
-            "3": "",
+            "3": "250630.103746(ed).<ol><li>Why is it ok to count here? Not for David.</li></ol>",
             "4": "",
             "5": "",
             "6": "",
