@@ -11736,7 +11736,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "250630.110253(ed).<ol><li>Moses has 3 son + 1 daughter</li></ol>",
-            "7": "",
+            "7": "250630.110533(ed).<ol><li>In the Bible, Ladan (also sometimes spelled Laadan) refers to two different individuals. One is a descendant of Levi, specifically a Gershonite, and the other is a descendant of Ephraim. Both are mentioned in the Books of Chronicles.</li></ol>",
             "8": "",
             "9": "",
             "10": "",
