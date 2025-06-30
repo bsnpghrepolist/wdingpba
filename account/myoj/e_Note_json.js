@@ -11735,7 +11735,7 @@ var _bnotes=
             "3": "250630.105949(ed).<ol><li>Why is it ok to count this time? How differ from David's previous time?.\"撒但起来攻击以色列人、激动大卫数点他们。\" (1Ch21:1-5 CUVS)</li><li>US statistic population?</li><li>for political campian?</li><li>for millitary?</li><li>Christians need to be careful about privacy protection.</li></ol>",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "250630.110253(ed).<ol><li>Moses has 3 son + 1 daughter</li></ol>",
             "7": "",
             "8": "",
             "9": "",
