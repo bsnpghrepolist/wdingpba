@@ -11756,7 +11756,7 @@ var _bnotes=
             "24": "",
             "25": "250630.111326(ed).<ol><li>human nation cannot bring peace forever.</li><li>personal life cannot have utobian life at at all.</li></ol>",
             "26": "",
-            "27": "",
+            "27": "250630.111410(ed).<ol><li>David's command to count.</li></ol>",
             "28": "",
             "29": "",
             "30": "",
