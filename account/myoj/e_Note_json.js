@@ -11710,7 +11710,7 @@ var _bnotes=
             "31": "250630.094619(ed).<ol><li>NOTE: This is 1Ch22:1. </li></ol>"
         },
         "22": {
-            "1": "",
+            "1": "250630.094724(ed).<ol><li>NOTE: Shift Verse Number. 1Ch21:31. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
