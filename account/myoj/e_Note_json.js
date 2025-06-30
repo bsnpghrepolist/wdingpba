@@ -11732,7 +11732,7 @@ var _bnotes=
         "23": {
             "1": "",
             "2": "",
-            "3": "250630.111433(ed).<ol><li>\"照着大卫临终所吩咐的、利未人从二十岁以外的、都被数点。\" (1Ch23:27 CUVS)</li><li>Why is it ok to count this time? How differ from David's previous time?.\"撒但起来攻击以色列人、激动大卫数点他们。\" (1Ch21:1-5 CUVS)</li><li>US statistic population?</li><li>for political campian?</li><li>for millitary?</li><li>Christians need to be careful about privacy protection.</li></ol>",
+            "3": "250630.112242(ed).<ol><li>\"照着大卫临终所吩咐的、利未人从二十岁以外的、都被数点。\" (1Ch23:27 CUVS)</li><li>Why is it ok to count this time? How differ from David's previous time?.\"撒但起来攻击以色列人、激动大卫数点他们。\" (1Ch21:1-5 CUVS)</li><li>US statistic population?</li><li>for political campian?</li><li>for millitary?</li><li>church counting to show up? </li><li>Christian counting for show up?</li><li>Christians need to be careful about privacy protection.</li></ol>",
             "4": "",
             "5": "",
             "6": "250630.110253(ed).<ol><li>Moses has 3 son + 1 daughter</li></ol>",
