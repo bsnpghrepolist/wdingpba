@@ -11754,7 +11754,7 @@ var _bnotes=
             "22": "",
             "23": "",
             "24": "",
-            "25": "",
+            "25": "250630.111255(ed).<ol><li>human nation cannot bring peace forever.</li></ol>",
             "26": "",
             "27": "",
             "28": "",
