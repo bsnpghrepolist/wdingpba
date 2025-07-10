@@ -11905,7 +11905,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "250710.095117(ed).<ol><li>build the house--build the kingdom of heaven.</li></ol>",
             "7": "",
             "8": "",
             "9": "250710.094629(ed).<ol><li>Jesus said: \"你们祈求、就给你们．寻找、就寻见．叩门、就给你们开门。\" (Mat7:7 CUVS)</li><li>consistent but critical</li></ol>",
