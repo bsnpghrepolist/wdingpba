@@ -11909,7 +11909,7 @@ var _bnotes=
             "7": "",
             "8": "",
             "9": "",
-            "10": "250710.094059(ed).<ol><li>How and why to be strong in the world. </li></ol>",
+            "10": "250710.094138(ed).<ol><li>How and why to be strong in the world. </li><li>We usually are strong in wrong way for wrong purpose.</li></ol>",
             "11": "",
             "12": "",
             "13": "",
