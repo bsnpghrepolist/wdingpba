@@ -11914,7 +11914,7 @@ var _bnotes=
             "12": "",
             "13": "",
             "14": "",
-            "15": "250711.094248(ed).<ol><li>lampstand: </li><li>Be the light and salt in the world.</li><li>The Word of the Lord: the light in front of feet.</li></ol>",
+            "15": "250711.094303(ed).<ol><li>lampstand: </li><li>Be the light and salt in the world.</li><li>The Word of the Lord: the light in front of the feet.</li></ol>",
             "16": "",
             "17": "",
             "18": "250711.093924(ed).<ol><li>The Ark of the Covenant of the Lord: the Bible.</li><li>The Wing of cherubim: Holy Spirit.</li><li>David: Jesus</li></ol>",
