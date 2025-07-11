@@ -11917,7 +11917,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "250711.093852(ed).<ol><li>The Ark of the Covenant of the Lord: the Bible.</li><li>The Wing of cherubim: Holy Spirit.</li></ol>",
+            "18": "250711.093924(ed).<ol><li>The Ark of the Covenant of the Lord: the Bible.</li><li>The Wing of cherubim: Holy Spirit.</li><li>David: Jesus</li></ol>",
             "19": "250711.093551(ed).<ol><li>Jesus wrote on the ground. \"于是又弯着腰用指头在地上画字。\" (Jhn8:8 CUVS)</li></ol>",
             "20": "",
             "21": ""
