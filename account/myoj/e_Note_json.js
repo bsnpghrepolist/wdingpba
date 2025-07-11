@@ -11912,7 +11912,7 @@ var _bnotes=
             "10": "250710.094138(ed).<ol><li>How and why to be strong in the world. </li><li>We usually are strong in wrong way for wrong purpose.</li></ol>",
             "11": "",
             "12": "",
-            "13": "",
+            "13": "250711.094359(ed).<ol><li>temple: synagogue, church.</li></ol>",
             "14": "",
             "15": "250711.094303(ed).<ol><li>lampstand: </li><li>Be the light and salt in the world.</li><li>The Word of the Lord: the light in front of the feet.</li></ol>",
             "16": "",
