@@ -31833,7 +31833,7 @@ var _bnotes=
             "20": "",
             "21": "",
             "22": "",
-            "23": "250713.090022(ed).<ol><li>this is about Chinese 学习=刁</li></ol>"
+            "23": "250713.091340(ed).<ol><li>this is about Chinese 学习=刁</li></ol>"
         },
         "3": {
             "1": "",
