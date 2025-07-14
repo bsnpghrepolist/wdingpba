@@ -11942,7 +11942,7 @@ var _bnotes=
             "17": "",
             "18": "",
             "19": "",
-            "20": "",
+            "20": "250714.093317(ed).<ol><li>prostrate before the Lord and king David. </li></ol>",
             "21": "250711.095051(ed).<ol><li>drink offerings</li></ol>",
             "22": "",
             "23": "",
