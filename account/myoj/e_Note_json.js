@@ -32981,7 +32981,7 @@ var _bnotes=
     },
     "1Jn": {
         "1": {
-            "1": "",
+            "1": "250715.091320(ed).<ol><li>truth, authentic, realistic.</li></ol>",
             "2": "",
             "3": "",
             "4": "",
