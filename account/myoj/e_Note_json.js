@@ -32984,7 +32984,7 @@ var _bnotes=
             "1": "250715.091320(ed).<ol><li>truth, authentic, realistic.</li></ol>",
             "2": "",
             "3": "",
-            "4": "",
+            "4": "250715.092222(ed).<ol><li>1–4 multiple layers of truth</li></ol>",
             "5": "",
             "6": "",
             "7": "",
