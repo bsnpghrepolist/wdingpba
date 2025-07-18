@@ -33019,7 +33019,7 @@ var _bnotes=
             "24": "250718.093140(ed).<ol><li>May God be in my heart forever. Evangelism core. forms and heart.</li><li>Remaining in the heart no matter what environment. </li><li>Not only in Worship Day but also in weekly days.</li></ol>",
             "25": "",
             "26": "",
-            "27": "250718.094330(ed).<ol><li>这恩膏是真的、不是假的</li><li>watch our initial heart from J's grace.</li></ol>",
+            "27": "250718.094506(ed).<ol><li>这恩膏是真的、不是假的</li><li>watch our initial heart from J's grace. even in the blasphemous environment.</li></ol>",
             "28": "",
             "29": "250718.092820(ed).<ol><li>true rightouseness and justice -- against chinese yi</li><li><br></li></ol>"
         },
