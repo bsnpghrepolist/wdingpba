@@ -33021,7 +33021,7 @@ var _bnotes=
             "26": "",
             "27": "",
             "28": "",
-            "29": ""
+            "29": "250718.092820(ed).<ol><li>true rightouseness and justice -- against chinese yi</li><li><br></li></ol>"
         },
         "3": {
             "1": "",
