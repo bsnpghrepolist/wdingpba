@@ -33020,7 +33020,7 @@ var _bnotes=
             "25": "",
             "26": "",
             "27": "250718.094506(ed).<ol><li>这恩膏是真的、不是假的</li><li>watch our initial heart from J's grace. even in the blasphemous environment.</li></ol>",
-            "28": "250718.094539(ed).<ol><li>Watch our initial heart more than anything else. </li></ol>",
+            "28": "250718.094856(ed).<ol><li>Guard thy initial heart more than anything else. </li><li>\"你要保守你心、胜过保守一切〔或作你要切切保守你心〕因为一生的果效、是由心发出。\" (Pro4:23 CUVS)</li><li>\"Above all else, guard your heart, for it is the wellspring of life.\" (Pro4:23 NIV)</li></ol>",
             "29": "250718.092820(ed).<ol><li>true rightouseness and justice -- against chinese yi</li><li><br></li></ol>"
         },
         "3": {
