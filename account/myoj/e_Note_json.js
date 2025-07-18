@@ -33016,7 +33016,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "250718.093046(ed).<ol><li>May God be in my heart forever. Evangelism core. forms and heart.</li><li>Remaining in the heart no matter what environment. </li></ol>",
+            "24": "250718.093140(ed).<ol><li>May God be in my heart forever. Evangelism core. forms and heart.</li><li>Remaining in the heart no matter what environment. </li><li>Not only in Worship Day but also in weekly days.</li></ol>",
             "25": "",
             "26": "",
             "27": "",
