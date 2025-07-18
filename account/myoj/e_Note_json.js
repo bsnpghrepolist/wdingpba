@@ -33016,7 +33016,7 @@ var _bnotes=
             "21": "",
             "22": "",
             "23": "",
-            "24": "",
+            "24": "250718.092915(ed).<ol><li>May God be in my heart forever. Evangelism core. forms and heart.</li></ol>",
             "25": "",
             "26": "",
             "27": "",
