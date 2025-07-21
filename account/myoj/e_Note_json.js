@@ -1699,7 +1699,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "250721.025059(ed).<ol><li>You will worship God on this mountain. </li></ol>",
             "13": "",
             "14": "",
             "15": "",
