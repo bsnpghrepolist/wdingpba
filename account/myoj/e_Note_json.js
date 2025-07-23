@@ -33076,7 +33076,7 @@ var _bnotes=
             "1": "250723.093530(ed).<ol><li>only Jesus is love, pure, HS. </li></ol>",
             "2": "",
             "3": "250723.094101(ed).<ol><li>Deu30:11</li><li>all-in </li></ol>",
-            "4": "",
+            "4": "250723.094542(ed).<ol><li>victor is based on our knowledge, skill, money.</li></ol>",
             "5": "",
             "6": "",
             "7": "",
