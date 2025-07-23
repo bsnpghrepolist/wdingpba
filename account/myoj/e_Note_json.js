@@ -33078,7 +33078,7 @@ var _bnotes=
             "3": "250723.094101(ed).<ol><li>Deu30:11</li><li>all-in </li></ol>",
             "4": "250723.094621(ed).<ol><li>victor is based on our knowledge, skill, money, and ...</li></ol>",
             "5": "",
-            "6": "",
+            "6": "250723.094859(ed).<ol><li>water is repeated, blood is once.</li></ol>",
             "7": "",
             "8": "",
             "9": "",
