@@ -33073,7 +33073,7 @@ var _bnotes=
             "21": "250722.094508(ed).<ol><li>love is like fire</li></ol>"
         },
         "5": {
-            "1": "",
+            "1": "250723.093530(ed).<ol><li>only Jesus is love, pure, HS. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
