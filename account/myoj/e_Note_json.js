@@ -33086,7 +33086,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": "250724.093443(ed).<ol><li>bravely believe in.</li></ol>",
+            "14": "250724.095131(ed).<ol><li>bravely believe in.</li><li>Our prayers is not deserved.</li></ol>",
             "15": "",
             "16": "",
             "17": "",
