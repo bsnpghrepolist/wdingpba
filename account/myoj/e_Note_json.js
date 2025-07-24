@@ -33091,7 +33091,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "",
+            "19": "250724.093948(ed).<ol><li>The whole world (culture) is under the control of the evil one. </li></ol>",
             "20": "",
             "21": ""
         }
