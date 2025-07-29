@@ -11998,7 +11998,7 @@ var _bnotes=
         "3": {
             "1": "250729.050331(ed).<ol><li>Moriah - Gen22:2</li><li>\"Canaan was the father of Sidon his firstborn, and of the Hittites,\" (Gen10:15 NIV) \"Jebusites, Amorites, Girgashites,\" (Gen10:16 NIV)</li><li>\"And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite.\" (1Ch21:15 KJV)</li><li>Mat22:14</li></ol>",
             "2": "",
-            "3": "250729.050215(ed).<ol><li>\"方舟的造法乃是这样、要长三百肘、宽五十肘、高三十肘。\" (Gen6:15 CUVS)</li><li>\"耶稣对众人说、你们要努力进窄门．我告诉你们、将来有许多人想要进去、却是不能。\" (Luk13:24 CUVS)</li><li>\"有一个人问他说、主阿、得救的人少么。\" (Luk13:23 CUVS)</li><li>terbnacle tent. </li></ol>",
+            "3": "250729.092403(ed).<ol><li>\"方舟的造法乃是这样、要长三百肘、宽五十肘、高三十肘。\" (Gen6:15 CUVS)</li><li>\"耶稣对众人说、你们要努力进窄门．我告诉你们、将来有许多人想要进去、却是不能。\" (Luk13:24 CUVS)</li><li>\"有一个人问他说、主阿、得救的人少么。\" (Luk13:23 CUVS)</li><li>terbnacle tent. The Tabernacle, according to Exodus 26, was 30 cubits long (approximately 45 feet or 13.5 meters), 10 cubits wide (approximately 15 feet or 4.5 meters), and 10 cubits high (approximately 15 feet or 4.5 meters).</li></ol>",
             "4": "",
             "5": "",
             "6": "",
