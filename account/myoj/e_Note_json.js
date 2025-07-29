@@ -11998,7 +11998,7 @@ var _bnotes=
         "3": {
             "1": "250728.232429(ed).<ol><li>Moriah - Gen22:2</li><li>\"Canaan was the father of Sidon his firstborn, and of the Hittites,\" (Gen10:15 NIV) \"Jebusites, Amorites, Girgashites,\" (Gen10:16 NIV)</li><li>\"And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite.\" (1Ch21:15 KJV)</li><li><br></li></ol>",
             "2": "",
-            "3": "",
+            "3": "250728.234753(ed).<ol><li>\"方舟的造法乃是这样、要长三百肘、宽五十肘、高三十肘。\" (Gen6:15 CUVS)</li></ol>",
             "4": "",
             "5": "",
             "6": "",
