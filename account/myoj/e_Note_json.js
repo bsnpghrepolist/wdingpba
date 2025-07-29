@@ -11996,7 +11996,7 @@ var _bnotes=
             "18": ""
         },
         "3": {
-            "1": "250728.231129(ed).<ol><li>Gen22:2</li></ol>",
+            "1": "250728.232004(ed).<ol><li>Moriah - Gen22:2</li><li>\"Canaan was the father of Sidon his firstborn, and of the Hittites,\" (Gen10:15 NIV) \"Jebusites, Amorites, Girgashites,\" (Gen10:16 NIV)</li></ol>",
             "2": "",
             "3": "",
             "4": "",
