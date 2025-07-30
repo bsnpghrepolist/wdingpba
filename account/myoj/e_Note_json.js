@@ -12011,7 +12011,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "250730.094240(ed).<ol><li>In the Bible, pomegranates symbolize fertility, abundance, beauty, and divine blessing. They are also associated with the Promised Land, the covenant with God, and even aspects of love and spiritual life.</li></ol>",
             "17": ""
         },
         "4": {
