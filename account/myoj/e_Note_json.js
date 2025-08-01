@@ -12032,7 +12032,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "",
+            "18": "250801.093756(ed).<ol><li>What God prepared is in great abundance. The descendants of Abraham are abundant like the sands of the sea and the stars of the sky. </li><li>May each of us be part of it. a vessel with pure gold. </li></ol>",
             "19": "",
             "20": "",
             "21": "",
