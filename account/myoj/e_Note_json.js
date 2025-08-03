@@ -1689,7 +1689,7 @@ var _bnotes=
         },
         "3": {
             "1": "250803.113441(ed).<ol><li>Horeb: desolate , deserts isolated </li></ol>",
-            "2": "250721.030318(ed).<ol><li>The burning heart </li></ol>",
+            "2": "250803.120720(ed).<ol><li>Bush: wild uncultivated plants possibly with thorns</li><li>Fire: God. The burning heart </li><li>Mak \"至于死人复活、摩西在荆棘篇上、称主是亚伯拉罕的　神、以撒的　神、雅各的　神、就指示明白了。\" (Luk20:37 CUVS)</li><li>\"论到死人复活、你们没有念过摩西的书、荆棘篇上所载的么．　神对摩西说、『我是亚伯拉罕的　神、以撒的　神、雅各的　神。』\" (Mak12:26 CUVS)</li></ol>",
             "3": "",
             "4": "",
             "5": "",
