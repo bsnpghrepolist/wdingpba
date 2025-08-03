@@ -1699,7 +1699,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "250803.064652(ed).<ol><li>Humble man</li></ol>",
-            "12": "250803.065015(ed).<ol><li>You will worship God on this mountain. Rather than Moses </li><li>Future evidence </li></ol>",
+            "12": "250803.065310(ed).<ol><li>You will worship God on this mountain. Rather than Moses </li><li>Future evidence </li><li>Raise children: parents raise children and let children to worship God. God will be parents. </li></ol>",
             "13": "",
             "14": "",
             "15": "",
