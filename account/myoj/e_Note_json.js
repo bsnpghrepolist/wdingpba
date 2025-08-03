@@ -1688,7 +1688,7 @@ var _bnotes=
             "25": "250721.023924(ed).<ol><li>God concern Israelite</li></ol>"
         },
         "3": {
-            "1": "",
+            "1": "250803.113441(ed).<ol><li>Horeb: desolate , deserts isolated </li></ol>",
             "2": "250721.030318(ed).<ol><li>The burning heart </li></ol>",
             "3": "",
             "4": "",
