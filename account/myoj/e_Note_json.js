@@ -1698,7 +1698,7 @@ var _bnotes=
             "8": "",
             "9": "",
             "10": "",
-            "11": "",
+            "11": "250803.064652(ed).<ol><li>Humble man</li></ol>",
             "12": "250721.025059(ed).<ol><li>You will worship God on this mountain. </li></ol>",
             "13": "",
             "14": "",
