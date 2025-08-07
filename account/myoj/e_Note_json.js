@@ -12112,7 +12112,7 @@ var _bnotes=
             "11": "",
             "12": "",
             "13": "",
-            "14": "",
+            "14": "250807.094845(ed).<ol><li>Be humble, pray, and seek the kingdom of God.</li></ol>",
             "15": "",
             "16": "",
             "17": "",
