@@ -12125,7 +12125,7 @@ var _bnotes=
         "8": {
             "1": "250808.093640(ed).<ol><li>Built a temple (7 years) and his own house (13 years) together--steal the glory of God. </li></ol>",
             "2": "",
-            "3": "",
+            "3": "250808.094440(ed).<ol><li>https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=2437&num=true </li></ol>",
             "4": "",
             "5": "",
             "6": "",
