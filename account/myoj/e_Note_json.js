@@ -12123,7 +12123,7 @@ var _bnotes=
             "22": ""
         },
         "8": {
-            "1": "250808.093606(ed).<ol><li>Built a temple and his own house together--steal the glory of God. </li></ol>",
+            "1": "250808.093640(ed).<ol><li>Built a temple (7 years) and his own house (13 years) together--steal the glory of God. </li></ol>",
             "2": "",
             "3": "",
             "4": "",
