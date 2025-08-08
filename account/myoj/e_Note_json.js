@@ -12129,7 +12129,7 @@ var _bnotes=
             "4": "",
             "5": "",
             "6": "",
-            "7": "250808.094751(ed).<ol><li>Solomon is the offspring of the Hittites.</li></ol>",
+            "7": "250808.095016(ed).<ol><li>Solomon is the offspring of the Hittites.</li><li>Jebusites, the original owners of the land of the Temple. </li></ol>",
             "8": "",
             "9": "",
             "10": "",
