@@ -12202,7 +12202,7 @@ var _bnotes=
             "3": "",
             "4": "",
             "5": "",
-            "6": "",
+            "6": "250811.185716(ed).<ol><li>https://biblegeography.holylight.org.tw/index/condensedbible_detail?id=2464 </li></ol>",
             "7": "",
             "8": "",
             "9": "",
