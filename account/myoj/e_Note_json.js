@@ -12154,7 +12154,7 @@ var _bnotes=
             "9": "",
             "10": "",
             "11": "",
-            "12": "",
+            "12": "250811.094125(ed).<ol><li>Life in a successful fate in the world is the beginning of the decline. </li></ol>",
             "13": "",
             "14": "",
             "15": "",
