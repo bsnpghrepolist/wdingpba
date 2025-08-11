@@ -12214,7 +12214,7 @@ var _bnotes=
             "15": "",
             "16": "",
             "17": "",
-            "18": "250811.191016(ed).<ol><li>David's son Jerimoth is not found in history. </li></ol>",
+            "18": "250811.191436(ed).<ol><li>David's son Jerimoth is not found in history. </li><li>Jesse's son Eliab is the oldest son. </li></ol>",
             "19": "",
             "20": "",
             "21": "",
