@@ -12197,7 +12197,7 @@ var _bnotes=
             "19": ""
         },
         "11": {
-            "1": "",
+            "1": "250811.185050(ed).<ol><li>\"So they sent for Jeroboam, and he and the whole assembly of Israel went to Rehoboam and said to him:\" (1Ki12:3 NIV)</li></ol>",
             "2": "",
             "3": "",
             "4": "",
