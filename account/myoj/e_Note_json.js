@@ -12216,7 +12216,7 @@ var _bnotes=
             "17": "",
             "18": "250811.191436(ed).<ol><li>David's son Jerimoth is not found in history. </li><li>Jesse's son Eliab is the oldest son. </li></ol>",
             "19": "",
-            "20": "",
+            "20": "250811.191653(ed).<ol><li>Abijah is one in genological tree.</li></ol>",
             "21": "",
             "22": "",
             "23": ""
