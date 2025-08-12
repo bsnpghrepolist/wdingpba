@@ -12194,7 +12194,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "250812.091553(ed).<ol><li>Parenting: Children's friends are influential. </li><li>Generation by generation, to follow God is difficult: focus on mission and service: those who follow Jesus are my sons. </li><li>The Chinese king focuses on poor people rather than God. </li><li>Is following the law easy or not?</li></ol>"
+            "19": "250812.092244(ed).<ol><li>Parenting: Children's friends are influential. </li><li>Generation by generation, to follow God is difficult: focus on mission and service: those who follow Jesus are my sons. </li><li>The Chinese king focuses on poor people rather than God. </li><li>Is following the law easy or not?</li><li>pray: child, familial, illness. church admin</li></ol>"
         },
         "11": {
             "1": "250811.185050(ed).<ol><li>\"So they sent for Jeroboam, and he and the whole assembly of Israel went to Rehoboam and said to him:\" (1Ki12:3 NIV)</li></ol>",
