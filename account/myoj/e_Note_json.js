@@ -12194,7 +12194,7 @@ var _bnotes=
             "16": "",
             "17": "",
             "18": "",
-            "19": "250812.091247(ed).<ol><li>parenting: children's friends are influetial. </li><li>generation by generation to follow God is difficult: focus on mission and service: those who follows Jesus are my sons. </li><li>China king focus on people. </li></ol>"
+            "19": "250812.091340(ed).<ol><li>parenting: children's friends are influetial. </li><li>generation by generation to follow God is difficult: focus on mission and service: those who follows Jesus are my sons. </li><li>China king focus on poor people rather God. </li></ol>"
         },
         "11": {
             "1": "250811.185050(ed).<ol><li>\"So they sent for Jeroboam, and he and the whole assembly of Israel went to Rehoboam and said to him:\" (1Ki12:3 NIV)</li></ol>",
