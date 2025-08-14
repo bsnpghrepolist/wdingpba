@@ -12212,7 +12212,7 @@ var _bnotes=
             "13": "",
             "14": "",
             "15": "",
-            "16": "",
+            "16": "250814.095239(ed).<ol><li>set heart on seeking the Lord</li></ol>",
             "17": "",
             "18": "250811.191436(ed).<ol><li>David's son Jerimoth is not found in history. </li><li>Jesse's son Eliab is the oldest son. </li></ol>",
             "19": "",
